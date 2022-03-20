@@ -1,4 +1,18 @@
-<!--Шапка-->
+/*Color*/
+title-color{
+    color: #212121;
+}
+primary-color{
+   color: #757575
+}
+accent-color
+{color:#2196F3
+}
+ hero-color {
+     color: #FFFFFF;
+ }
+
+/* шапка*/
 .logo{
  
 }

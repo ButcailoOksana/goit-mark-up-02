@@ -1,0 +1,16 @@
+<!--Шапка-->
+.logo{
+ 
+}
+.site-nav{
+    color: #212121;
+}
+.auth-nav{
+    color: #757575;
+}
+.menu-nav:hover{
+    color: #2196F3;
+}
+.menu-nav{
+    color: black;
+}

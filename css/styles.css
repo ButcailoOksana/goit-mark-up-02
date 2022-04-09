@@ -10,8 +10,8 @@
     --background-color:#2F303A;
     --background-portfolio:#E5E5E5;
     --border-color:#ECECEC;
-    --vector-color: 000000 ;
-    --container-border-color: EEEEEE;
+    --vector-color: #000000 ;
+    --container-border-color: #EEEEEE;
 }
 body {
     font-family: Roboto,sans-serif;
